@@ -5,7 +5,7 @@ First of all many thx to all the awesome developers and VCV community! Whithout 
 
 Now ready for v 0.6.2 this is what you'll find
 
-![alt text](https://github.com/dBiz/VCVRack_Modules/blob/v0.6/screenshot/sofar.jpg)
+![alt text](https://github.com/dBiz/VCVRack_Modules/blob/0.6/screenshot/sofar.jpg)
 
 UTILITY AND QUANTIZER
 
@@ -14,7 +14,7 @@ UTILITY AND QUANTIZER
 - Utility transposer octave/sem/fine with ability to link the inputs,
 - Simple transposer
 
-![alt text](https://github.com/dBiz/VCVRack_Modules/blob/v0.6/screenshot/Utility.jpg)
+![alt text](https://github.com/dBiz/VCVRack_Modules/blob/0.6/screenshot/Utility.jpg)
 
 VCA AND ROUTERS
 
@@ -24,13 +24,13 @@ VCA AND ROUTERS
  - 8 Ch. mixer scanner/sequencer/router 
  
 
-![alt text](https://github.com/dBiz/VCVRack_Modules/blob/v0.6/screenshot/VCA-Routers.jpg)
+![alt text](https://github.com/dBiz/VCVRack_Modules/blob/0.6/screenshot/VCA-Routers.jpg)
 
 GRID SEQUENCERS 
 
 Starting from some grid sequencers like Cartesian by strum and Gridseq by JW i've made those grid sequencers:
 
-![alt text](https://github.com/dBiz/VCVRack_Modules/blob/v0.6/screenshot/GridSeq.jpg)
+![alt text](https://github.com/dBiz/VCVRack_Modules/blob/0.6/screenshot/GridSeq.jpg)
 
 - Bene
 Classical 4x4 cv sequencer with internal quantization , 
@@ -43,7 +43,7 @@ OSCILLATORS:
 
 They don't need introductions ;)
 
-![alt text](https://github.com/dBiz/VCVRack_Modules/blob/v0.6/screenshot/Oscillators.jpg)
+![alt text](https://github.com/dBiz/VCVRack_Modules/blob/0.6/screenshot/Oscillators.jpg)
 
 
 VINTAGE SERIE
@@ -51,7 +51,7 @@ VINTAGE SERIE
 This mini 4 modules series is based on subharmonicon sequencer,oscillator and clock subdivision. 
 The Utility2 module is a collection of 2 glide generator, 2 ad envelope and 4 button/toggle with value selection.
 
-![alt text](https://github.com/dBiz/VCVRack_Modules/blob/v0.6/screenshot/VintageSeries.jpg)
+![alt text](https://github.com/dBiz/VCVRack_Modules/blob/0.6/screenshot/VintageSeries.jpg)
 
 
 
